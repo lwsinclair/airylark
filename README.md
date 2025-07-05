@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/wizd-airylark-badge.png)](https://mseep.ai/app/wizd-airylark)
+
 # AiryLark
 
 [![License: Custom](https://img.shields.io/badge/License-Custom%20(Apache%202.0%20with%20restrictions)-blue.svg)](./LICENSE)
